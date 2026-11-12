@@ -5,5 +5,6 @@
 - [博客](https://www.zahml.top/)
 - [中转站](https://newapi.zahml.top)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zahml&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahml&layout=compact&theme=radical)
+## GitHub
+
+- [查看我的仓库](https://github.com/zahml?tab=repositories)
